@@ -1,6 +1,7 @@
 # first_app
 
-A new Flutter project.
+This is a simple flutter project which is showing some travel destinations in İzmir.This project uses the Google Maps API
+and before you test the app on your computer you should get a Google Maps API key.
 
 ## Getting Started
 
